@@ -4,7 +4,7 @@ site simples, um desafio do <strong>Curso em Video</strong> para testar os conhe
 <img align="center" alt="site android" src="https://github.com/caiosouza25/Desafio-Curso-em-video/blob/main/desafio10/Imagens-REDME/site%20pc.png?raw=true">
 
 ##
-   A ideia era conseguir o maximo de responsividade usando apenas o CSS.<br><br>
+   A ideia era conseguir o maximo de responsividade com conceitos basicos do CSS.<br><br>
    O resultado esta logo abaixo :point_down:
    
    <img align="center" alt="site android no smartphone" src="https://github.com/caiosouza25/Desafio-Curso-em-video/blob/main/desafio10/Imagens-REDME/sitecel.png?raw=true">
