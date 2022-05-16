@@ -11,7 +11,7 @@ site simples, um desafio do <strong>Curso em Video</strong> para testar os conhe
    
 ##
   O curso tambem ensinou um conceito muito importante, o comando <strong>:root</strong>, ele te permite criar variaveis dentro do CSS
-  isso facilita muito as possiveis alteraçoes no projeto! veja abaixo :point_down:
+  isso facilita muito as possiveis alteraçoes de design no projeto! veja abaixo :point_down:
   
   
   <img align="center" alt="comando :root" height="500px" width="650px" src="https://github.com/caiosouza25/Desafio-Curso-em-video/blob/main/desafio10/Imagens-REDME/paleta%20de%20cores.png?raw=true">
